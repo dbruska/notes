@@ -1,4 +1,4 @@
-!http://upload.wikimedia.org/wikipedia/commons/c/c6/Dennis_MacAlistair_Ritchie.jpg
+![D.M. Ritchie](http://upload.wikimedia.org/wikipedia/commons/c/c6/Dennis_MacAlistair_Ritchie.jpg)
 
 == Pierwsze programy w C
 
