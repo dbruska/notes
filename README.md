@@ -1,4 +1,4 @@
-== Pierjowczwsze programy w C
+== Pierwsze programy w C
 
 
 Zwyczajowo (kto to wymyslił?) zaczynamy od programu
