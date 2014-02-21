@@ -14,3 +14,11 @@ int main () {
   ,,,
   
   Praktycznie każdy jężyk programowania ma taki program [Hello world program](http://en.wikipedia.org/wiki/Hello_world)
+  
+  ## TODO
+  
+  W niedzielę
+  
+  1. Porozmawiać o Github Deskop
+  2. powtórzyć notację Markdawn
+     - Markdown online
