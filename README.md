@@ -1,4 +1,5 @@
-notes
-=====
+== Pierjowczwsze programy w C
 
-notatki do wykładu z technologii internetowych
+
+Zwyczajowo (kto to wymyslił?) zaczynamy od programu
+*hello world*
