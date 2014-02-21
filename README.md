@@ -1,5 +1,4 @@
-
-!http://pl.wikipedia.org/wiki/Plik:Dennis_MacAlistair_Ritchie.jpg
+D.M.Ritchie !http://pl.wikipedia.org/wiki/Plik:Dennis_MacAlistair_Ritchie.jpg
 
 
 == Pierwsze programy w C
