@@ -1,6 +1,7 @@
 ![D.M. Ritchie](http://upload.wikimedia.org/wikipedia/commons/c/c6/Dennis_MacAlistair_Ritchie.jpg)
 
-== Pierwsze programy w C
+
+## Pierwsze programy w C
 
 
 Zwyczajowo (kto to wymyslił?) zaczynamy od programu
